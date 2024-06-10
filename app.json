@@ -2,7 +2,7 @@
   "name": "OREKI404",
   "description": "Created to serve my master oreki-sama ",
   "logo": "https://telegra.ph/file/a9ba9111759f480f90fc1.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "blade Bot", "blade","BLADE-MD","theme bot","multi device","baileys","oreki"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "blade Bot", "blade","BLADE-MD","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
@@ -33,7 +33,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/a9ba9111759f480f90fc1.jpg"
+     "value": "https://telegra.ph/file/073a656d7cd338fa06e33.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -84,15 +84,15 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb+srv://Maher:Zubair@sigma-male.ggwx4gc.mongodb.net/?retryWrites=true&w=majority"
+    "value": "mongodb+srv://or3ki404:Oreki404@or3ki404.s9527pk.mongodb.net/?retryWrites=true&w=majority&appName=or3ki404"
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are GOJO,blade-md,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "blade-md"
+     "value": "OREKI"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-         "value": "public"
+         "value": "private"
   },
       "AUTO_REACTION": {
     "description": "Reacts emoji to all commands.",
@@ -101,14 +101,14 @@
   },
   "PACK_AUTHOR": {
     "description": "PUT STICKER AUTHER NAME",
-    "value": "ALEXTV:"
+    "value": "ᴏʀᴇᴋɪ:"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "BLADE-MD"
+    "value": "404 SERIES"
   },
   "heroku": {
-    "description": "Weather it is on heroku or not", 
+    "description": "Whether it is on heroku or not", 
      "value": "true",
      "required": false 
   }
