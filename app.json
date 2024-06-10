@@ -1,14 +1,14 @@
 {
-  "name": "BLADE-MD",
-  "description": "A Whatsapp md bot built in NodeJs to make experience better",
+  "name": "OREKI404",
+  "description": "Created to serve my master oreki-sama ",
   "logo": "https://telegra.ph/file/5b8747782b8fb7312bd9d.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "blade Bot", "blade","BLADE-MD","theme bot","multi device","baileys","Alex tv"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "blade Bot", "blade","BLADE-MD","theme bot","multi device","baileys","oreki"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME", 
-      "value": "Alexdavid"
+      "value": "oreki-sama"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
