@@ -9,11 +9,11 @@ global.port= process.env.PORT || 5000
 global.email = 'hotarouorekix123@gmail.com'
 global.github = 'https://github.com/Bladeh4x/BLADE-MD'
 global.location = 'Lahore pakistan'
-global.gurl = 'https://instagram.com/alex_david/' // add your username
+global.gurl = 'https://instagram.com/oreki404/' // add your username
 global.sudo = process.env.SUDO || "2349153241354"
 global.devs = '2349153241354'
-global.website = 'https://github.com/Bladeh4x/BLADE-MD' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/a9ba9111759f480f90fc1.jpg'
+global.website = 'https://github.com/oreki-sama/BLADE-MD' //wa.me/+91000000000000
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/073a656d7cd338fa06e33.jpg'
 module.exports = {
   sessionName: process.env.SESSION_ID || "",      //Put Your Session Id Here
   author:  process.env.PACK_AUTHER ||  'ᴏʀᴇᴋɪ_404',
